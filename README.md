@@ -1,4 +1,14 @@
-# Data-Structure
-NYU CSCI-UA 102 Fall 2023
+# Data Structure Notes
 
-I took this class in my first semester. Only record my documents and notes of this class
+## Introduction
+
+**Author：Ruian7P**
+
+Data Structure notes and course documents, notes by hand-writing
+
+Only for Personal Records：Freshman 2023 Fall (first semester)
+
+----
+
+## Menu
+

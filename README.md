@@ -12,3 +12,5 @@ Only for Personal Records：Freshman 2023 Fall (first semester)
 
 ## Menu
 
+Data Structure NYU CS, Lecturer: Evan Korth
+

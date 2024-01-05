@@ -1,9 +1,4 @@
 public class TreeTraversal
-//demonstrates three traversal methods
-//preorder
-//inorder
-//postorder
-
 {
     public static void main(String [] args)
     {
@@ -17,32 +12,6 @@ public class TreeTraversal
         t.postfix();
     }
 }
-
-class  Node
-{
-    Node left;
-    Node right;
-    Object element;
-
-    public Node (Object o)
-    {
-        this (o, null, null);
-    }
-
-    public Node (Object o, Node l, Node r)
-    {
-        element = o;
-        left = l;
-        right = r;
-    }
-
-    public String toString()
-    {
-        return "" + element;
-    }
-}
-
-
 
 class  Tree
 {

@@ -15,6 +15,9 @@ Only for Personal Records and Reviews：Freshman 2023 Fall (first semester)
 Data Structure NYU CS, Lecturer: Evan Korth
 
 >### Stack
-- stack
-- 
+- Stack
+- ArrayStack
+- LinkedStack
+    SinglyLinkedList
+  
 

@@ -1,6 +1,6 @@
 public class SinglyLinkedList<E> implements Cloneable{
 
-    private [Node](https://github.com/Ruian7P/Data-Structure/blob/main/Stack/Node.java)<E> head = null;               // head node of the list (or null if empty)
+    private Node<E> head = null;               // head node of the list (or null if empty)
     private Node<E> tail = null;               // last node of the list (or null if empty)
     private int size = 0;                        // number of nodes in the list
 
@@ -19,6 +19,7 @@ public class SinglyLinkedList<E> implements Cloneable{
         if (isEmpty()) return null;
         return tail.getElement();
     }
+    
     public void addFirst(E e) {                // adds element e to the front of the list
         head = new Node<>(e, head);              // create and link a new node
         if (size == 0)
@@ -35,11 +36,7 @@ public class SinglyLinkedList<E> implements Cloneable{
         tail = newest;                           // new node becomes the tail
         size++;
     }
-
-    /**
-     * Removes and returns the first element of the list.
-     * @return the removed element (or null if empty)
-     */
+    
     public E removeFirst() {                   // removes and returns the first element
         if (isEmpty()) return null;              // nothing to remove
         E answer = head.getElement();
@@ -67,8 +64,8 @@ public class SinglyLinkedList<E> implements Cloneable{
     }
 
     @SuppressWarnings({"unchecked"})
+    // always use inherited Object.clone() to create the initial copy
     public SinglyLinkedList<E> clone() throws CloneNotSupportedException {
-        // always use inherited Object.clone() to create the initial copy
         SinglyLinkedList<E> other = (SinglyLinkedList<E>) super.clone(); // safe cast
         if (size > 0) {                    // we need independent chain of nodes
             other.head = new Node<>(head.getElement(), null);
@@ -84,32 +81,8 @@ public class SinglyLinkedList<E> implements Cloneable{
         return other;
     }
 
-    public int hashCode() {
-        int h = 0;
-        for (Node walk=head; walk != null; walk = walk.getNext()) {
-            h ^= walk.getElement().hashCode();      // bitwise exclusive-or with element's code
-            h = (h << 5) | (h >>> 27);              // 5-bit cyclic shift of composite code
-        }
-        return h;
-    }
 
-    /**
-     * Produces a string representation of the contents of the list.
-     * This exists for debugging purposes only.
-     */
-    public String toString() {
-        StringBuilder sb = new StringBuilder("(");
-        Node<E> walk = head;
-        while (walk != null) {
-            sb.append(walk.getElement());
-            if (walk != tail)
-                sb.append(", ");
-            walk = walk.getNext();
-        }
-        sb.append(")");
-        return sb.toString();
-    }
-
+    // test of SinglyLinkedList//
     public static void main(String[] args) {
         SinglyLinkedList<Integer> sl = new SinglyLinkedList<Integer>();
         sl.addFirst(19);

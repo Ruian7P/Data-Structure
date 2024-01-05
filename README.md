@@ -28,8 +28,8 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - [Tree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/Tree.java) : [Node](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/Node.java)
 - [TreeTraversal](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/TreeTraversal.java)
 - [ExpressionTree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/ExpressionTree.java)
-- [AVL Tree]
-- [B Tree]
+- [AVL Tree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/AVL%20Tree.pdf)
+- [B Tree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/B%20Tree.pdf)
 
 >### Heap (Priority Queue) 
 - Heap

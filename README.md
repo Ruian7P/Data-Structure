@@ -14,7 +14,7 @@ Only for Personal Records and Reviews：Freshman 2023 Fall (first semester)
 
 Data Structure NYU CS, Lecturer: Evan Korth
 
->### Stack 栈
+>### [Stack 栈](https://github.com/Ruian7P/Data-Structure/tree/main/Stack)
 - Stack
 - ArrayStack
 - LinkedStack

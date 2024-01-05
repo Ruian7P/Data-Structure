@@ -25,10 +25,11 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - [LinkedQueue](https://github.com/Ruian7P/Data-Structure/blob/main/Queue/LinkedQueue.java) : [Node](https://github.com/Ruian7P/Data-Structure/blob/main/Stack/Node.java), [SinglyLinkedList](https://github.com/Ruian7P/Data-Structure/blob/main/Stack/SinglyLinkedList.java)
 
 >### Tree 树
-- Tree
-- -Tree
-- AVL Tree
-- B Tree
+- [Tree]
+- [TreeTraversal]
+- [ExpressionTree]
+- [AVL Tree]
+- [B Tree]
 
 >### Heap (Priority Queue) 
 - Heap

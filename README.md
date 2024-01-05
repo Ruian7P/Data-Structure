@@ -24,10 +24,10 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - [ArrayQueue](https://github.com/Ruian7P/Data-Structure/blob/main/Queue/ArrayQueue.java)
 - [LinkedQueue](https://github.com/Ruian7P/Data-Structure/blob/main/Queue/LinkedQueue.java) : [Node](https://github.com/Ruian7P/Data-Structure/blob/main/Stack/Node.java), [SinglyLinkedList](https://github.com/Ruian7P/Data-Structure/blob/main/Stack/SinglyLinkedList.java)
 
->### Tree 树
-- [Tree] : [Node]
-- [TreeTraversal]
-- [ExpressionTree]
+>### [Tree 树](https://github.com/Ruian7P/Data-Structure/tree/main/Tree)
+- [Tree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/Tree.java) : [Node](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/Node.java)
+- [TreeTraversal](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/TreeTraversal.java)
+- [ExpressionTree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/ExpressionTree.java)
 - [AVL Tree]
 - [B Tree]
 

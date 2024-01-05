@@ -1,28 +1,24 @@
 public class ExpressionTree
-//creates an expression tree
-//prints infix expression
-//prints postfix expression
-//evaluates the expression (postorder)
 {
     public static void main(String [] args)
     {
         ExTree expressionTree = new ExTree();
-        expressionTree.build();
+        expressionTree.build();                                                        //creates an expression tree
         System.out.println("inorder traversal");
-        expressionTree.infix();
+        expressionTree.infix();                                                        //prints infix expression
         System.out.println("postorder traversal");
-        expressionTree.postfix();
-        System.out.println ("evaluates to: " + expressionTree.evaluate());
+        expressionTree.postfix();                                                      //prints postfix expression
+        System.out.println ("evaluates to: " + expressionTree.evaluate());             //evaluates the expression (postorder)
     }
 }
 
 
-class ExTree
+class Tree
 {
 
     private Node root;
 
-    public ExTree ()
+    public Tree ()
     {
         root = null;
     }

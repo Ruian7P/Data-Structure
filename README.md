@@ -26,6 +26,7 @@ Data Structure NYU CS, Lecturer: Evan Korth
 
 >### Tree 树
 - Tree
+- -Tree
 - AVL Tree
 - B Tree
 

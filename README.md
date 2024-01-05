@@ -18,6 +18,7 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - Stack
 - ArrayStack
 - LinkedStack
+  
     SinglyLinkedList
   
 

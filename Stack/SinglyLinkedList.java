@@ -1,6 +1,6 @@
 public class SinglyLinkedList<E> implements Cloneable{
 
-    private Node<E> head = null;               // head node of the list (or null if empty)
+    private [Node](https://github.com/Ruian7P/Data-Structure/blob/main/Stack/Node.java)<E> head = null;               // head node of the list (or null if empty)
     private Node<E> tail = null;               // last node of the list (or null if empty)
     private int size = 0;                        // number of nodes in the list
 

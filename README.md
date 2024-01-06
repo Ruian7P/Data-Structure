@@ -38,7 +38,7 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - deleteMin (dequeue)
 - build_heap
 
->### Sorts 排序
+>### [Sorts 排序](Sorts)
 - bubbleSort 冒泡排序
 - selectionSort 选择排序
 - insertionSort 插入排序

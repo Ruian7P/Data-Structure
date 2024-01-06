@@ -1,7 +1,7 @@
 存最大或者最小值及其index，再与首个或最后一个交换
 第n趟能得到前n个最小或后n个最大
 average     O(n^2)
-Least Case  O(n)
+best Case   O(n^2)
 Worst Case  O(n^2)
 
 eg.  1 3 -2 4 5

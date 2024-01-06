@@ -39,8 +39,8 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - build_heap
 
 >### [Sorts 排序](Sorts)
-- bubbleSort 冒泡排序
-- selectionSort 选择排序
+- [bubbleSort 冒泡排序](Sorts/bubbleSort.java)
+- [selectionSort 选择排序](Sorts/selectSort.java)
 - insertionSort 插入排序
 - quickSort 快速排序
 - mergeSort 归并排序

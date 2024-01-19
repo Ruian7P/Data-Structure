@@ -47,6 +47,6 @@ Data Structure NYU CS, Lecturer: Evan Korth
 
 >### [Tree Searching](Tree Searching)
 - [DFS depth-first search](Tree Searching/depth-first searching.pdf)
-- BFS breadth-first search(Tree Searching/breadth-first searching.pdf)
+- [BFS breadth-first search](Tree Searching/breadth-first searching.pdf)
   
 

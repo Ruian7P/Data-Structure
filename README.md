@@ -31,7 +31,7 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - [AVL Tree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/AVL%20Tree.pdf)
 - [B Tree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/B%20Tree.pdf)
 
->### Heap (Priority Queue) 
+>### [Heap (Priority Queue)](Heap)
 - Heap
 - heapify
 - instert (enqueue)

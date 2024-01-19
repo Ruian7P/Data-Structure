@@ -46,7 +46,7 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - [mergeSort 归并排序](Sorts/mergeSort.pdf)
 
 >### [Tree Searching](https://github.com/Ruian7P/Data-Structure/tree/main/Tree%20Searching)
-- [DFS depth-first search](Tree Searching/depth-first searching.pdf)
+- [DFS depth-first search](https://github.com/Ruian7P/Data-Structure/blob/main/Tree%20Searching/breadth-first%20search.pdf)
 - [BFS breadth-first search](Tree Searching/breadth-first searching.pdf)
   
 

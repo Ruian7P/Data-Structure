@@ -47,6 +47,6 @@ Data Structure NYU CS, Lecturer: Evan Korth
 
 >### [Tree Searching](https://github.com/Ruian7P/Data-Structure/tree/main/Tree%20Searching)
 - [DFS depth-first search](https://github.com/Ruian7P/Data-Structure/blob/main/Tree%20Searching/breadth-first%20search.pdf)
-- [BFS breadth-first search](Tree Searching/breadth-first searching.pdf)
+- [BFS breadth-first search](https://github.com/Ruian7P/Data-Structure/blob/main/Tree%20Searching/depth-first%20searching.pdf)
   
 

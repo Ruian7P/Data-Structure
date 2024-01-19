@@ -32,11 +32,11 @@ Data Structure NYU CS, Lecturer: Evan Korth
 - [B Tree](https://github.com/Ruian7P/Data-Structure/blob/main/Tree/B%20Tree.pdf)
 
 >### [Heap (Priority Queue)](Heap)
-- Heap
-- heapify
-- instert (enqueue)
-- deleteMin (dequeue)
-- build_heap
+- [Heap](Heap/Heap.pdf)
+- [heapify](Heap/Heapify.java)
+- [instert (enqueue)](Heap/insert.pdf)
+- [deleteMin (dequeue)](Heap/deleteMin.pdf)
+- [build_heap](Heap/build_heap.pdf)
 
 >### [Sorts 排序](Sorts)
 - [bubbleSort 冒泡排序](Sorts/bubbleSort.java)
